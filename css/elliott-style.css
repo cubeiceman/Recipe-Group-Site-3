@@ -190,3 +190,7 @@ form p {
 .hide {
   border: 0;
 }
+
+#home-link {
+  font-size: 150%;
+}
