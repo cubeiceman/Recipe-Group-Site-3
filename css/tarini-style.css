@@ -1,0 +1,95 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: url(/images/backgroundsky.jpeg);
+  background-repeat: no-repeat;
+  background-size: 2000px 2000px;
+  font-family: "Josefin Sans", sans-serif;
+  color: #000;
+  display: grid;
+  grid-gap: 0.5em;
+}
+.dedication {
+  color: #ee95ff;
+}
+figcaption {
+  color: #ee95ff;
+}
+
+h1 {
+  color: #d56d26;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: bold;
+}
+h2, h3, h4 {
+  color:#fff;
+}
+.box1 {
+    border-style: solid;
+    border-color: black;
+    font-family: "Josefin Sans", sans-serif;
+  background-color: #7a3261;
+  }
+
+.box3 {
+  border-style: solid;
+  border-color: black;
+  background-color: #8630c2;
+  font-family: "Lucida Handwriting", cursive;
+}
+
+ul {
+  color: #ee95ff;
+}
+.box4 {
+  border-style: solid;
+  border-color: black;
+  background-color: #8630c2;
+  font-family: "Lucida Handwriting", cursive;
+}
+ol {
+  color: #ee95ff;
+}
+.initial-direction{
+  font-weight: bold;
+  color: #ee95ff;
+}
+.box5 {
+  border-style: solid;
+  border-color: black;
+  background-color: #7a3261;
+  font-family: "Josefin Sans", sans-serif;
+}
+.rate {
+  font-family: "Josefin Sans", sans-serif;
+  color: #000;
+}
+fieldset {
+  border-style: solid;
+  border-color: #fff;
+}
+legend {
+  border-style: solid;
+  border-color: #fff;
+  color: #000;
+}
+a {
+  color: #ff0000;
+}
+.notif {
+  color: #ff0000;
+}
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.container2 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
